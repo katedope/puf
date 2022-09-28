@@ -15,7 +15,6 @@ for y in range(0, len(p)):
     k = input('кол-во студентов')
     p[y].append(k)
     h.append(p[y])
-
 print(h)
 
 
